@@ -1,3 +1,4 @@
+Using UK companieshouse streaming API as described here https://developer-specs.companieshouse.gov.uk/streaming-api/guides/overview
 ```
 $ go run main.go
 ```
